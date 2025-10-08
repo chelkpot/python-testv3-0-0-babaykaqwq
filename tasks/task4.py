@@ -2,7 +2,8 @@
 
 def solve():
 # Ниже пишите решение задачи
-    
+    z = int(input())
+    print(z + 2 - z % 2)
 
     
 
